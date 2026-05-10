@@ -1,0 +1,6 @@
+{
+  "name": "red9",
+  "description": "A comprehensive Netflix clone UI featuring a catalog of watchable movies and TV shows, user profiles, personalized recommendations, functional search, watchlist, progress tracking, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
